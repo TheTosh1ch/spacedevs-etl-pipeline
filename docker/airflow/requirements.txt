@@ -1,0 +1,5 @@
+pyspark==3.5.3
+requests
+pandas
+pyarrow
+apache-airflow-providers-amazon

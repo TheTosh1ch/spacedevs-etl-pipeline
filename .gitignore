@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# Airflow
+logs/
+airflow-logs/
+
+# Docker
+# (volumes хранятся вне папки, так что тут чисто)
+
+# Jupyter
+work/.ipynb_checkpoints/
